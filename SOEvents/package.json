@@ -1,0 +1,7 @@
+{
+  "name": "com.batuberksahin.soevents",
+  "displayName": "ScriptableObject Event System",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/batuberksahin/so-events",
+  "description": "Primitive ScriptableObject event system for Unity"
+}
